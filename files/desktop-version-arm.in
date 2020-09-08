@@ -1,0 +1,8 @@
+[Release]
+Version=@@VERSION@@
+Type=Desktop
+Edition=Y2020E0001
+Copyright=Y2020CR001
+[Addition]
+Milestone=@@RELEASE@@
+Buildid=build1

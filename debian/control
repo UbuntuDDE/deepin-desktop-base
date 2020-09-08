@@ -1,0 +1,14 @@
+Source: deepin-desktop-base
+Section: misc
+Priority: optional
+Maintainer: Arun Kumar Pariyar <expertaruncorp@gmail.com>
+Standards-Version: 4.5.0
+Build-Depends: debhelper-compat (=13)
+
+Package: deepin-desktop-base
+Architecture: any
+Provides: deepin-appstore-config
+Conflicts: deepin-desktop-server
+Depends: ${misc:Depends}, distro-info-data,
+ eject, fonts-noto, fonts-symbola
+Description: Base files for Deepin Desktop

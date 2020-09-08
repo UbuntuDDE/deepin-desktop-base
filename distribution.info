@@ -1,0 +1,7 @@
+[Distribution]
+Name=UbuntuDDE
+WebsiteName=ubuntudde.com
+Website=https://ubuntudde.com
+Logo=/usr/share/ubuntudde/distribution_logo.svg
+LogoLight=/usr/share/ubuntudde/distribution_logo_light.svg
+LogoTransparent=/usr/share/ubuntudde/distribution_logo_transparent.svg

@@ -1,0 +1,11 @@
+deepin-desktop-base (2020.07.05-3) groovy; urgency=medium
+
+  * Change Type=Desktop and more UbuntuDDE specific changes.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Tue, 08 Sep 2020 21:13:53 +0545
+
+deepin-desktop-base (2020.07.05-2) groovy; urgency=medium
+
+  * UbuntuDDE Specific port.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Tue, 21 Jul 2020 15:15:35 +0545
