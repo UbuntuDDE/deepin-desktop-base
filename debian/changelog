@@ -1,3 +1,9 @@
+deepin-desktop-base (2020.07.05-4) groovy; urgency=medium
+
+  * Rebuild with path change on the logo.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Thu, 17 Sep 2020 01:04:26 +0545
+
 deepin-desktop-base (2020.07.05-3) groovy; urgency=medium
 
   * Change Type=Desktop and more UbuntuDDE specific changes.

@@ -5,6 +5,5 @@ files/dde-desktop-watermask.json /usr/share/deepin/
 files/systemd.conf /etc/systemd/system.conf.d/
 files/logind.conf /etc/systemd/logind.conf.d/
 distribution.info /usr/share/deepin/
-distribution.info /usr/share/ubuntudde/
 distribution/* /usr/share/ubuntudde/distribution/
 distribution/* /usr/share/deepin/distribution/
