@@ -1,3 +1,9 @@
+deepin-desktop-base (2021.09.19) impish; urgency=medium
+
+  * New upstream release.
+
+ -- Arun <aryan@aryan-pc>  Sun, 19 Sep 2021 17:37:22 +0545
+
 deepin-desktop-base (2020.07.05-4) groovy; urgency=medium
 
   * Rebuild with path change on the logo.

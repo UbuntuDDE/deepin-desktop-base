@@ -1,5 +1,5 @@
-VERSION := 20.10
-RELEASE := Groovy
+VERSION := 21.10
+RELEASE := impish
 ARCH_BUILD :=$(shell uname -m)
 
 all: build
@@ -32,7 +32,7 @@ install:
 	#install -Dm644 files/dde-desktop-watermask.json     ${DESTDIR}/usr/share/deepin/dde-desktop-watermask.json
 	[ -e files/systemd.conf ] && install -Dm644 files/systemd.conf ${DESTDIR}/etc/systemd/system.conf.d/deepin-base.conf
 	[ -e files/logind.conf ] && install -Dm644 files/logind.conf ${DESTDIR}/etc/systemd/logind.conf.d/deepin-base.conf
-	
+
 clean:
 	rm -f files/desktop-version
 	rm -f files/lsb-release
