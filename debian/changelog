@@ -1,3 +1,9 @@
+deepin-desktop-base (2021.10.21-1) impish; urgency=medium
+
+  * Makefile build fix
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Thu, 21 Oct 2021 23:55:52 +0545
+
 deepin-desktop-base (2021.10.21) impish; urgency=medium
 
   * Add os-version and set Standard Version to 4.5.1.
