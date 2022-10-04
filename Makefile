@@ -26,6 +26,7 @@ install:
 	install -Dm644 files/i18n_dependent.json  ${DESTDIR}/usr/share/i18n/i18n_dependent.json
 	install -Dm644 files/language_info.json  ${DESTDIR}/usr/share/i18n/language_info.json
 	install -Dm644 files/desktop-version ${DESTDIR}/usr/lib/deepin/desktop-version
+	install -Dm644 files/deepin-installer.conf ${DESTDIR}/etc/deepin-installer.conf
 	#install -Dm644 files/os-license ${DESTDIR}/var/uos/os-license
 	#install -Dm644 files/os-version ${DESTDIR}/etc/os-version
 	#install -Dm644 files/lsb-release     ${DESTDIR}/etc/lsb-release

@@ -1,7 +1,7 @@
 [Version]
 SystemName=ubuntudde
 ProductType=Desktop
-EditionName=impish
-MajorVersion=21.10
-MinorVersion=1021
+EditionName=Desktop
+MajorVersion=22.04
+MinorVersion=22.04
 OsBuild=11031.002

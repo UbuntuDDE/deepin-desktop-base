@@ -2,6 +2,7 @@ files/i18n_dependent.json /usr/share/i18n
 files/language_info.json /usr/share/i18n/
 files/desktop-version /usr/lib/deepin/
 files/os-version /etc/
+files/deepin-installer.conf /etc/
 files/systemd.conf /etc/systemd/system.conf.d/
 files/logind.conf /etc/systemd/logind.conf.d/
 distribution.info /usr/share/deepin/

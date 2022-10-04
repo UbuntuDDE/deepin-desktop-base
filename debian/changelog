@@ -1,3 +1,27 @@
+deepin-desktop-base (2022.08.13-1) jammy; urgency=medium
+
+  * Add deepin-installer.conf file.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Sat, 13 Aug 2022 14:36:58 +0545
+
+deepin-desktop-base (2022.07.15-1) jammy; urgency=medium
+
+  * Change EditionName.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Fri, 15 Jul 2022 22:25:54 +0545
+
+deepin-desktop-base (2022.07.02-2) jammy; urgency=medium
+
+  * Add arm support.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Sat, 02 Jul 2022 21:30:32 +0545
+
+deepin-desktop-base (2022.07.02-1) jammy; urgency=medium
+
+  * Version change for jammy.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Sat, 02 Jul 2022 21:22:00 +0545
+
 deepin-desktop-base (2021.10.21-1) impish; urgency=medium
 
   * Makefile build fix
