@@ -1,3 +1,9 @@
+deepin-desktop-base (2022.10.5-1ubuntu1) jammy; urgency=medium
+
+  * Fix version in Makefile.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Wed, 05 Oct 2022 20:52:02 +0545
+
 deepin-desktop-base (2022.10.5-1) jammy; urgency=medium
 
   * Reupload.

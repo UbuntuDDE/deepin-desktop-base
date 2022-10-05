@@ -1,5 +1,5 @@
-VERSION := 21.10
-RELEASE := impish
+VERSION := 22.04
+RELEASE := jammy
 ARCH_BUILD :=$(shell uname -m)
 
 all: build
