@@ -1,3 +1,9 @@
+deepin-desktop-base (2022.10.5-1) jammy; urgency=medium
+
+  * Reupload.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Wed, 05 Oct 2022 17:02:29 +0545
+
 deepin-desktop-base (2022.08.13-1) jammy; urgency=medium
 
   * Add deepin-installer.conf file.
